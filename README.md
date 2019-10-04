@@ -1,5 +1,5 @@
 # shopping-cart-scala
-simple shooping cart pricing service for apples and oranges in scala. builds with sbt or maven.
+simple shopping cart pricing service for apples and oranges in scala. builds with sbt or maven.
 
 - Inputs are space separated strings from possible values : "Apple" or "Orange".
 - the price list is configured in application.conf file; Apples cost 60p and oranges cost 25p.
